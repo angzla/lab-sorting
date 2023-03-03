@@ -118,7 +118,7 @@ After you've completed the FIXME, run the following command
 $ python3 runtimes.py --max_x=22
 ```
 and copy/paste the resulting table into this README file below this line.
-|len(xs)|timsort|merge_sorted|quick_sorted|
+|`len(xs)`|`timsort`|`merge_sorted`|`quick_sorted`|
 |2**0|4.71e-06|3.57e-06|2.70e-06|
 |2**1|2.47e-06|1.00e-05|1.13e-05|
 |2**2|2.59e-06|1.74e-05|1.67e-05|
